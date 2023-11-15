@@ -1,0 +1,7 @@
+# Modelsim Files
+*work/
+*transcript
+*.wlf
+
+# draw.io Files
+draw.io/.*
